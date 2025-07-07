@@ -1,0 +1,13 @@
+.DS_Store
+13_api/lesson_git/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
+13_api/homework/.ipynb_checkpoints/*
+17_data_preparation/.ipynb_checkpoints/*
+18_data_cleaning/homework/.ipynb_checkpoints/*
+19_data_visualization/homework/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/
+**/.venv/
+**/catboost_info/
+final/.idea/*
+final/data/*
+**/__pycache__
